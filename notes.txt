@@ -1,0 +1,20 @@
+--[[
+-- Dark themed Admin Panel for Garry's Mod
+
+-- This admin panel allows for admins to easily manage the server and its players.
+
+-- The design of this admin panel is modern and dark themed, with a simplistic and minimalistic design.
+
+-- The main page of the admin panel has a list of all the players on the server and their information, such as their in-game name, steam ID, rank, and any admin notes.
+
+-- There is also a search bar for quickly finding specific players.
+
+-- On the left, there is a navigation bar that allows admins to quickly access the different pages of the admin panel, such as the ban list, the mute list, and any other custom pages.
+
+-- On the right, there is a console log that displays all the server events as they happen in real-time.
+
+-- The admin panel also has a custom page system that allows admins to quickly create their own custom pages for whatever function they'd like.
+
+-- All in all, this admin panel is designed to allow admins to quickly and easily manage the server without having to type in any commands.
+
+]]--
